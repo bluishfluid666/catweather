@@ -5,7 +5,7 @@ The goal of this website is to support the workshop "Building Serverless Applica
 This folder is designed to be cloned locally and then uploaded as is to S3, strictly following the instructions in the workshop guide.,
 
 
-Throughout the lab you may need to edit a config file. Simpy replace the `null` with with your content.
+Throughout the lab you may need to edit a config file. Simpy replace the `null` with your content.
 
 For example inside config.json you would replace
 
