@@ -10,14 +10,14 @@ Throughout the lab you may need to edit a config file. Simpy replace the `null` 
 For example inside config.json you would replace
 
 ```JavaScript
-		var G_API_GATEWAY_URL_STR = null;
+var G_API_GATEWAY_URL_STR = null;
 ```
 
 with
 
 ```JavaScript
 
-		var G_API_GATEWAY_URL_STR = "https://xxxxxxxxxx.execute-api.us-east-1.amazonaws.com/test"
+var G_API_GATEWAY_URL_STR = "https://xxxxxxxxxx.execute-api.us-east-1.amazonaws.com/test"
 ```
 according to the lab guide.
 
